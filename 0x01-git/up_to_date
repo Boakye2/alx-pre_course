@@ -1,1 +1,1 @@
-git diff HEAD^!
+git diff --up_to_date-only master
