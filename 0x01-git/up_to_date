@@ -1,1 +1,1 @@
-git difftool --dir-diff master
+git pull
