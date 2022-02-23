@@ -1,1 +1,1 @@
-git diff --up_to_date-only master
+git fetch command
